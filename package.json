@@ -1,0 +1,23 @@
+{
+    "name": "tdd-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/inz2020/project1-tdd-js.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/inz2020/project1-tdd-js/issues"
+    },
+    "homepage": "https://github.com/inz2020/project1-tdd-js#readme",
+    "devDependencies": {
+        "@cucumber/cucumber": "^7.3.1"
+    }
+}
